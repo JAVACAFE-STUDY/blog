@@ -7,7 +7,7 @@ title: Javacafe
 subtitle: 자바카페 기술블로그
 description:
 author: Javacafe
-language: default
+language: ko
 timezone: Asia/Seoul
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hueman
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
