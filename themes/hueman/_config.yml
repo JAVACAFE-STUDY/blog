@@ -17,9 +17,9 @@ customize:
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
-        twitter: /
+        #twitter: /
         facebook: https://www.facebook.com/groups/javacafe/
-        google-plus: /
+        #google-plus: /
         github: https://github.com/javacafe-study
         # weibo: /
         rss: /
