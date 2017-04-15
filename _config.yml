@@ -12,7 +12,7 @@ timezone: Asia/Seoul
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://javacafe-study.github.io/
+url: https://javacafe-study.github.io/blog
 root: /blog/
 permalink: :year/:month/:title/
 permalink_defaults:
