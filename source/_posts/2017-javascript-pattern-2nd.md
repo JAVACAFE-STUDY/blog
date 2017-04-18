@@ -9,7 +9,7 @@ tags:
 - 자바스크립트
 thumbnail: https://image.slidesharecdn.com/e05jsclosureoopfunctional-160510123317/95/e05-js-closure-oop-1-638.jpg?cb=1462885055
 ---
-### ▶ 자바스크립트 - 1
+### ▶ 자바스크립트 기초 - 3
 1. Closure
 2. OOP
 
@@ -17,7 +17,7 @@ thumbnail: https://image.slidesharecdn.com/e05jsclosureoopfunctional-16051012331
 
 ---
 
-### ▶ 자바스크립트 - 2
+### ▶ 자바스크립트 기초 - 4
 1. Namespace
 2. Test
 3. Deffered, Promise

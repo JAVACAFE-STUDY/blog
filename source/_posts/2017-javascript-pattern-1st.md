@@ -23,7 +23,7 @@ thumbnail: https://image.slidesharecdn.com/e03-160420140533/95/e03-javascript-in
 
 ---
 
-### ▶ 자바스크립트 기초
+### ▶ 자바스크립트 기초 2
 1. 기본 개념
     - Function
     - 일급객체
